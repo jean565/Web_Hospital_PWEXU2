@@ -1,3 +1,9 @@
+Integrantes 
+Neira Verastegui Jean Pool
+Quiñones Vera Lenin Joseph
+
+
+
 # ProgramaU2
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.2.0.
