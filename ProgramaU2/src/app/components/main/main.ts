@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
 
 @Component({
-  imports: [],
   selector: 'app-main',
-  styleUrl: './main.css',
+  imports: [],
   templateUrl: './main.html',
+  styleUrl: './main.css'
 })
-export class Main {}
+export class Main {
+}
